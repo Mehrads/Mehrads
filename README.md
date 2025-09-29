@@ -64,9 +64,3 @@ University of Windsor, Jan 2024 – May 2025
 - NLP with Python (Udemy)  
 - GenAI Intensive Course (Google)  
 
----
-
-## 📊 GitHub Stats  
-
-![Mehrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehrads&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrads&layout=compact&theme=radical)  
